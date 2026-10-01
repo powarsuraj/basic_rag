@@ -1,0 +1,203 @@
+DUMMY COMPANY HR POLICY DOCUMENT
+Company: ExampleTech Solutions Pvt. Ltd.
+Document Type: Sample HR Policy
+Version: 1.0
+Effective Date: 01 January 2026
+Status: Fictional sample for learning and RAG project practice
+
+IMPORTANT NOTICE
+This document contains entirely fictional policies for demonstration and educational use.
+It is not legal advice and does not represent any real employer's rules. Replace these
+examples with approved company policies before using an HR chatbot in a real workplace.
+
+============================================================
+1. WORKING HOURS AND ATTENDANCE
+============================================================
+- Standard working days are Monday through Friday.
+- Standard working hours are 9:30 AM to 6:00 PM.
+- Employees receive a 60-minute lunch break.
+- Employees should record attendance using the company's attendance system.
+- Employees who expect to arrive more than 15 minutes late should notify their manager.
+- Flexible working arrangements require manager approval.
+- Some teams may follow different schedules based on business needs.
+
+Example question: What are the standard working hours?
+Sample answer: The fictional standard working hours are 9:30 AM to 6:00 PM, Monday
+through Friday, with a 60-minute lunch break.
+
+============================================================
+2. LEAVE POLICY
+============================================================
+- Full-time employees receive 12 days of casual leave per calendar year.
+- Full-time employees receive 12 days of sick leave per calendar year.
+- Full-time employees receive 18 days of earned leave per calendar year.
+- Leave entitlements are prorated for eligible employees who join during the year.
+- Employees should request planned leave through the HR portal at least 3 working
+  days in advance.
+- Sick leave should be reported to the manager as soon as reasonably possible.
+- Leave approval depends on team coverage and the applicable approval workflow.
+- Unused leave carry-forward rules are subject to the company's annual leave procedure.
+- Employees should contact HR for leave balances or questions about eligibility.
+
+Example question: How many earned leave days are provided?
+Sample answer: This fictional policy provides eligible full-time employees with
+18 days of earned leave per calendar year.
+
+============================================================
+3. REMOTE WORK AND HYBRID WORK
+============================================================
+- Employees may request remote work with their manager's approval.
+- The sample hybrid arrangement is up to 3 remote working days per week.
+- Team or client requirements may require employees to work from the office.
+- Employees working remotely must protect company information and use approved devices.
+- Employees must remain reachable during their agreed working hours.
+- Remote work from another country requires written approval from HR and Information
+  Security before the employee makes arrangements.
+
+Example question: Can an employee work remotely?
+Sample answer: Employees may request remote work. Manager approval and team requirements
+apply under this fictional policy.
+
+============================================================
+4. HOLIDAYS
+============================================================
+- The company publishes a holiday calendar at the beginning of each calendar year.
+- Holiday dates may vary by office location.
+- Employees should check the HR portal for their location's approved holiday calendar.
+- A team that must operate on a holiday may arrange compensatory time off according
+  to the applicable internal procedure.
+
+============================================================
+5. CODE OF CONDUCT
+============================================================
+- Employees must treat colleagues, customers, and business partners respectfully.
+- Harassment, discrimination, bullying, threats, and retaliation are prohibited.
+- Employees should disclose potential conflicts of interest to HR or their manager.
+- Company equipment and accounts should be used responsibly and in accordance with
+  company policies.
+- Employees must not falsify attendance, expense claims, work records, or approvals.
+- Concerns may be reported to HR through the designated reporting channel.
+
+============================================================
+6. INFORMATION SECURITY AND CONFIDENTIALITY
+============================================================
+- Employees must protect confidential company, employee, and customer information.
+- Passwords and multi-factor authentication codes must not be shared.
+- Employees should use only approved software, storage, and file-sharing services.
+- Suspected phishing messages or security incidents should be reported promptly to
+  the IT or Information Security team.
+- Confidential data must not be pasted into public AI tools unless the company has
+  explicitly approved that use and the data handling is permitted.
+- Employees must lock their screens when leaving devices unattended.
+- Company data should be handled according to its classification and retention rules.
+
+Example question: Can I paste confidential HR data into a public AI chatbot?
+Sample answer: Not unless the company has explicitly approved the tool and the
+specific data use under its security policies.
+
+============================================================
+7. EXPENSE REIMBURSEMENT
+============================================================
+- Business expenses must have a valid business purpose.
+- Employees should submit expense claims through the approved expense system within
+  30 calendar days of the transaction.
+- Receipts are required for expenses unless the expense procedure specifies an exception.
+- Manager approval is required before reimbursement is processed.
+- Personal purchases are not reimbursable.
+- Travel bookings should follow the company's travel approval process.
+
+============================================================
+8. BUSINESS TRAVEL
+============================================================
+- Business travel must be approved by the employee's manager before booking.
+- Employees should use approved booking channels where available.
+- Travel claims must include required receipts and supporting documents.
+- Employees should contact the travel desk or HR for accessibility or safety support.
+- International travel may require additional security, visa, and compliance checks.
+
+============================================================
+9. PERFORMANCE AND DEVELOPMENT
+============================================================
+- Employees and managers should discuss goals at the beginning of the review cycle.
+- The sample company conducts formal performance reviews twice per year.
+- Feedback should be specific, respectful, and related to work expectations.
+- Employees may request training or professional development through their manager.
+- Promotion and compensation decisions follow separate internal review processes.
+
+============================================================
+10. ONBOARDING AND PROBATION
+============================================================
+- New employees receive onboarding instructions from HR.
+- Employees must complete required policy, security, and compliance training.
+- The sample probation period is 6 months, unless the offer letter states otherwise.
+- The manager should provide feedback during the probation period.
+- Questions about employment terms should be directed to HR.
+
+============================================================
+11. PARENTAL AND FAMILY LEAVE
+============================================================
+- Employees should contact HR for applicable parental, adoption, caregiver, or family
+  leave benefits.
+- Eligibility, duration, documentation, and pay depend on applicable law and the
+  employer's approved policy.
+- This fictional sample intentionally does not define legal entitlements.
+- HR should provide the current approved policy for the employee's work location.
+
+============================================================
+12. GRIEVANCES AND WORKPLACE CONCERNS
+============================================================
+- Employees may raise workplace concerns with HR, their manager, or the designated
+  ethics or reporting channel.
+- Reports should include relevant dates, events, and supporting information where possible.
+- Reports will be handled according to applicable company procedures and law.
+- Retaliation against a person who raises a concern in good faith is prohibited under
+  this fictional sample policy.
+- If the concern involves the employee's manager, the employee may contact HR directly.
+
+============================================================
+13. RESIGNATION AND EXIT PROCESS
+============================================================
+- Employees who plan to resign should submit written notice using the approved process.
+- The notice period is governed by the employment agreement and applicable policy.
+- Employees must return company equipment and complete assigned handover tasks.
+- HR will share exit formalities and final settlement steps.
+- Employees should confirm their final working date with HR and their manager.
+
+============================================================
+14. PAYROLL AND PAYSLIPS
+============================================================
+- Payroll is processed monthly under the company's published payroll calendar.
+- Employees should review their payslips and report discrepancies to Payroll or HR.
+- Bank account changes must be submitted through the approved secure process.
+- Salary details and payroll records are confidential personal information.
+- Tax deductions and statutory contributions depend on applicable law and eligibility.
+
+============================================================
+15. FREQUENTLY ASKED QUESTIONS
+============================================================
+Q: Where can I check my leave balance?
+A: Check the HR portal or contact HR if the balance appears incorrect.
+
+Q: Who approves planned leave?
+A: The employee's designated manager or the configured approval workflow approves leave.
+
+Q: Can I install any software on my work laptop?
+A: Use approved software and follow the company's IT and security procedures.
+
+Q: What should I do if I receive a suspicious email?
+A: Do not open suspicious links or attachments. Report the message to IT or Information
+   Security using the approved reporting process.
+
+Q: Where can I find office-specific holidays?
+A: Check the current holiday calendar in the HR portal for your office location.
+
+Q: How do I report a payroll error?
+A: Contact Payroll or HR through the approved internal channel and provide the relevant
+   pay period and details securely.
+
+Q: Does this document represent a real company's official policy?
+A: No. It is fictional sample data created for learning and project development.
+
+============================================================
+END OF SAMPLE DOCUMENT
+============================================================
